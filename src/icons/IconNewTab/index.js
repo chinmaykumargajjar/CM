@@ -1,0 +1,1 @@
+export { IconNewTab } from "./IconNewTab";
